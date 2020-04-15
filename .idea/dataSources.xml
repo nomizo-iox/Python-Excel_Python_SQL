@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="defaultdb@nomizodb-do-user-6621383-0.a.db.ondigitalocean.com" uuid="6de862d8-e4be-4ea2-bd10-7316986d7868">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://nomizodb-do-user-6621383-0.a.db.ondigitalocean.com:25060/defaultdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
